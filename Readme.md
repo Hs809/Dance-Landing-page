@@ -10,7 +10,7 @@ I have build this Dance Landing template website with my core HTML CSS skills
 
 ![image](./images/created.png)
 
-You can check out here: [Developer Landing Page By Hitesh](https://hitesh-developer-landing-page.netlify.app/)
+You can check out here: [Dance Landing Page By Hitesh](https://dance-landing-page-by-hitesh.netlify.app/)
 
 
 
